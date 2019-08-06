@@ -9,4 +9,4 @@ For reference, I am using <a href="https://thedailyneopets.com/dailies"> The Dai
 4) something something enjoy
 
 <hr>
-<p> Made with love in summer '19.
+<p> Made in summer '19.
